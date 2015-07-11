@@ -2,10 +2,6 @@ body {
 	font-family: Helvertica, sans-serif;
 }
 
-div {
-	border: 1px solid #aaa;
-}
-
 .navbar {
 	height: 70px;
 	border-bottom: 1px solid black;
@@ -80,6 +76,8 @@ div {
 
 .post {
 	padding: 40px 80px;
+  border: 2px solid #ddd;
+  margin: 40px 0;
 }
 
 a {
